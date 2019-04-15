@@ -6,4 +6,7 @@ print("hello world")
 
 print('123456')
 print("修改厂库后")
+print ("wlh123")
+
+
 
